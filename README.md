@@ -90,3 +90,8 @@ See `.github/workflows/aurora_tick.yml`.
 ---
 
 Trademark and Copyright 2026. AIPEX INDUSTRIES. All Rights Reserved. Created by Richard A. Morgan.
+
+
+---
+
+Trademark and Copyright 2026. Hoopla Hoorah. All Rights Reserved.
