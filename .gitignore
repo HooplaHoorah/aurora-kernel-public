@@ -1,0 +1,33 @@
+.env
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+*.pyo
+*.pyd
+.Python
+dist/
+build/
+*.egg-info/
+
+# Demo security (instructions_5)
+JUDGE_URLS_LOCAL.md
+.env.*
+!.env.example
+*.local
+
+# Secrets & Private Docs
+*.pem
+*.key
+*.p12
+*.crt
+id_rsa
+docs/private/
+*.pdf
+*.pptx
+*.docx
+*.zip
+!requirements.txt
+!.gitignore
+!README.md
+!SECURITY.md
