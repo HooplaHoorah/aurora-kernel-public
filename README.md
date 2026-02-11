@@ -12,6 +12,12 @@ Aurora is a **compliance evidence copilot** that turns policies, controls, incid
 
 This bundle is built to help judges validate the full loop quickly via **Live Demo** (preferred) or **Local Run**.
 
+## Architecture
+
+![Aurora Kernel architecture](docs/architecture.png)
+
+More detail: [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md) · Quick judge path: [docs/JUDGES.md](docs/JUDGES.md)
+
 ---
 
 ## Live Demo (fastest)
