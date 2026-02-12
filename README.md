@@ -23,11 +23,11 @@ More detail: [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md) · Quick judge path: [
 ## Live Demo (fastest)
 
 - **Aurora Studio (UI):** https://d11zsiqq3s9tq.cloudfront.net
-- **Aurora Kernel API:** https://x2vcyviirf.us-east-1.awsapprunner.com
-- **API Docs (Swagger):** https://x2vcyviirf.us-east-1.awsapprunner.com/docs
-- **Health Check:** https://x2vcyviirf.us-east-1.awsapprunner.com/health
+- **Aurora Kernel API:** https://btuxtwwbnj.us-east-1.awsapprunner.com
+- **API Docs (Swagger):** https://btuxtwwbnj.us-east-1.awsapprunner.com/docs
+- **Health Check:** https://btuxtwwbnj.us-east-1.awsapprunner.com/health
 
-### 60-second judge path
+### Judges: 3-minute path
 
 1. Open **Aurora Studio**.
 2. Pick a **Stakeholder preset** (e.g., *Compliance / GRC* or *CISO / Security*).
@@ -123,11 +123,11 @@ Portable execution kernel for Aurora:
 ## 👩‍⚖️ Judge Quickstart (Live Demo)
 
 - **Aurora Studio (UI):** https://d11zsiqq3s9tq.cloudfront.net
-- **Aurora Kernel API:** https://x2vcyviirf.us-east-1.awsapprunner.com
-- **API Docs (Swagger):** https://x2vcyviirf.us-east-1.awsapprunner.com/docs
-- **Health Check:** https://x2vcyviirf.us-east-1.awsapprunner.com/health
+- **Aurora Kernel API:** https://btuxtwwbnj.us-east-1.awsapprunner.com
+- **API Docs (Swagger):** https://btuxtwwbnj.us-east-1.awsapprunner.com/docs
+- **Health Check:** https://btuxtwwbnj.us-east-1.awsapprunner.com/health
 
-### 60-second path
+### Judges: 3-minute path
 1. Open the Studio URL.
 2. Select a stakeholder preset (e.g., Compliance / GRC).
 3. Select a hot-seat scenario.

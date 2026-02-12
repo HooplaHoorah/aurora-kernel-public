@@ -7,9 +7,9 @@
 | Resource | URL |
 |----------|-----|
 | **Aurora Studio (UI)** | https://d11zsiqq3s9tq.cloudfront.net |
-| **Aurora Kernel API** | https://x2vcyviirf.us-east-1.awsapprunner.com |
-| **API Docs (Swagger)** | https://x2vcyviirf.us-east-1.awsapprunner.com/docs |
-| **Health Check** | https://x2vcyviirf.us-east-1.awsapprunner.com/health |
+| **Aurora Kernel API** | https://btuxtwwbnj.us-east-1.awsapprunner.com |
+| **API Docs (Swagger)** | https://btuxtwwbnj.us-east-1.awsapprunner.com/docs |
+| **Health Check** | https://btuxtwwbnj.us-east-1.awsapprunner.com/health |
 
 ### 3-minute path
 
